@@ -1,0 +1,5 @@
+﻿  COMDll.cpp
+     Creating library C:\Users\yaele\Downloads\COMDll\Release\COMDll.lib and object C:\Users\yaele\Downloads\COMDll\Release\COMDll.exp
+  COMDll.vcxproj -> C:\Users\yaele\Downloads\COMDll\Release\COMDll.dll
+C:\Program Files\Microsoft Visual Studio\2022\Professional\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(2325,5): warning MSB3075: The command "regsvr32 /s "C:\Users\yaele\Downloads\COMDll\Release\COMDll.dll"" exited with code 5. Please verify that you have sufficient rights to run this command.
+C:\Program Files\Microsoft Visual Studio\2022\Professional\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(2337,5): error MSB8011: Failed to register output. Please try enabling Per-user Redirection or register the component from a command prompt with elevated permissions.
